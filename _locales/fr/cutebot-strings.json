@@ -33,7 +33,7 @@
   "cuteBot.TrackingState.L_line_R_unline|block": "● ◌",
   "cuteBot.TrackingState.L_unline_R_line|block": "◌ ●",
   "cuteBot.backforward|block": "Marche arrière à pleine vitesse",
-  "cuteBot.closeheadlights|block": "Éteindre toutes les DEL avant",
+  "cuteBot.closeheadlights|block": "Éteindre toutes les DEL avantxxx",
   "cuteBot.colorLight|block": "Régler les DEL avant à la luminosité %light et couleur $color",
   "cuteBot.forward|block": "Avancer tout droit à pleine vitesse",
   "cuteBot.motors|block": "Régler la vitesse de la roue gauche à %lspeed\\% |la vitesse de la roue droite à %rspeed\\%",
