@@ -36,7 +36,7 @@
   "cuteBot.closeheadlights|block": "Éteindre toutes les DEL avant",
   "cuteBot.colorLight|block": "Régler les DEL avant à la luminosité %light et couleur $color",
   "cuteBot.forward|block": "Avancer tout droit à pleine vitesse",
-  "cuteBot.motors|block": "Régler la vitesse de la roue gauche à %lspeed\\% |la vitesse de la roue droite à %rspeed\\%",
+  "cuteBot.motors|block": "מהירות גלגל שמאל %lspeed\\% |מהירות גלגל ימין %rspeed\\%",
   "cuteBot.moveTime|block": "Avancer %dir à la vitesse de speed%speed\\% pour %time secondes",
   "cuteBot.setServo|block": "Régler l'angle du servo %servo à %angle °",
   "cuteBot.singleheadlights|block": "Régler les DEL avant à la luminosité %light et la couleur R:%r G:%g B:%b",
