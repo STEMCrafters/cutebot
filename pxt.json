@@ -18,7 +18,8 @@
         "_locales/ja/cutebot-strings.json",
         "_locales/ja/cutebot-jsdoc-strings.json",
         "_locales/fr/cutebot-strings.json",
-        "_locales/fr/cutebot-jsdoc-strings.json"
+        "_locales/fr/cutebot-jsdoc-strings.json",
+        "_locales/he/cutebot-strings.json"
     ],
     "testFiles": [
         "tests.ts"
