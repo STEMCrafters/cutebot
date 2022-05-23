@@ -46,7 +46,7 @@
   "cuteBot.tracking|block": "Tracking state is %state",
   "cuteBot.turnleft|block": "Turn left at full speed",
   "cuteBot.turnright|block": "Turn right at full speed",
-  "cuteBot.ultrasonic|block": "HC-SR04 Sonar unit %unit",
+  "cuteBot.ultrasonic|block": "HC-SR045 Sonar unit %unit",
   "cuteBot|block": "cuteBot",
   "{id:category}CuteBot": "CuteBot"
 }
